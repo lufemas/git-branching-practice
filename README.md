@@ -17,18 +17,8 @@ A. Jupiter.
 ```
 
 ## Questions
-```
-Q. What does 'git branch' command do?
-```
-
-```
-Q. What does 'git checkout' command do?
-```
-
-```
-Q. What does 'git merge' command do?
-```
 
 ```
 Q. Where do I learn more about it?
+A. You learn more at www.git-scm.com/docs
 ```
