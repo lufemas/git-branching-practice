@@ -17,5 +17,7 @@ A. Jupiter.
 ```
 
 ## Questions
-<Add your questions here>
+```
+Q. What does 'git branch' command do?
+```
 
