@@ -18,13 +18,6 @@ A. Jupiter.
 
 ## Questions
 ```
-Q. What does 'git branch' command do?
-```
-
-```
-Q. What does 'git checkout' command do?
-```
-
-```
 Q. What does 'git merge' command do?
+A. It Joins two or more development histories together.
 ```
