@@ -19,5 +19,6 @@ A. Jupiter.
 ## Questions
 ```
 Q. What does 'git branch' command do?
+A. It List, Creates, or Deletes branches.
 ```
 
