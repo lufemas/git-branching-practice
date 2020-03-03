@@ -17,7 +17,6 @@ A. Jupiter.
 ```
 
 ## Questions
-<Q. What does 'git branch' command do?>
 ```
 Q. What does 'git checkout' command do?
 A. It Switches branches or restore working tree files.
